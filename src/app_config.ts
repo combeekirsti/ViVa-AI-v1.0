@@ -4,7 +4,7 @@
  */
 
 export const APP_CONFIG = {
-  // 1. 应用名称（APP_NAME）：默认值="AI 助手"，代理替换为自己的应用名称（同步生效于HTML文件界面名称）
+  // 1. 应用名称（APP_NAME）：默认值="苏才港"，代理替换为自己的应用名称（同步生效于HTML文件界面名称）
   APP_NAME: "苏才港",
 
   // 2. 基础地址（BASE_URL）：默认值="https://www.vivaapi.cn"，代理替换为专属域名
